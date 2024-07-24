@@ -1,0 +1,89 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.env
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+staticfiles
+.env
+
+# Virtual Environment
+venv/
+env/
+ENV/
+denv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# MySQL
+*.sql
+*.sqlite3
+
+# Pipenv
+Pipfile.lock
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Logs
+*.log
+
+# Testing
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+
+# SQL
+*.sql
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Anaconda
+.conda
